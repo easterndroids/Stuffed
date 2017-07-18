@@ -5,7 +5,7 @@ package com.example.admin.stuffed8;
  */
 public class Config {
     //URL to our login.php file
-    public static final String LOGIN_URL = "http://stuffed.x10host.com/login.php";
+    public static final String LOGIN_URL = ""https://web.cs.dal.ca/~arulappan/ubicomp/login.php"";
 
     //Keys for email and password as defined in our $_POST['key'] in login.php
     public static final String KEY_EMAIL = "email";
